@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>FirstTry</name>
+  <author>BradlyKycher</author>
+  <packageId>BradlyKycher.FirstTry</packageId>
+  <description>Проба мода</description>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>

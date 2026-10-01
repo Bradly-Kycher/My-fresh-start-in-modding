@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <ThingDef ParentName="ResourceBase">
+    <defName>MFM_MagicDust</defName>
+    <label>magic dust</label>
+    <description>Странная пыль, от нее веет аурой</description>
+    <graphicData>
+      <texPath>Things/Item/MagicDust</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>750</stackLimit>
+    <statBases>
+      <MarketValue>500</MarketValue>
+      <Mass>0.1</Mass>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+  </ThingDef>
+
+</Defs>
